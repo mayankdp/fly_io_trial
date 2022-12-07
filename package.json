@@ -1,0 +1,22 @@
+{
+  "name": "fly_io_trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankdp/fly_io_trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankdp/fly_io_trial/issues"
+  },
+  "homepage": "https://github.com/mayankdp/fly_io_trial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
